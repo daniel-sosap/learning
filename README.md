@@ -1,2 +1,2 @@
-# learning
-learning to developer
+# learning to Daniel Sosa - Bienvenido
+Repositorio de Daniel Sosa
